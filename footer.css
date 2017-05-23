@@ -1,0 +1,31 @@
+﻿#footer{
+  width:1300px;
+  height:40px;
+  float:left;  
+  border-top-style: solid;
+  border-top-width:2px;
+  border-top-color:#C8D7DE;
+  background:#F7F5AF;
+  
+}
+#footer ul{
+  list-style:none;
+  
+  
+}
+#footer ul li a{
+  text-decoration:none;
+  text-transform:uppercase;
+  color:#228655; 
+}
+#footer ul li{
+  float:left;
+  padding: 10px; 
+  border-right-style:solid;
+  border-right-width:2px;
+  border-right-color:#C8D7DE;
+}
+#footer .copyright a{
+  text-decoration:none;
+  right:10px;
+}
