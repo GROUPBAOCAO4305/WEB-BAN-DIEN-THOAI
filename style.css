@@ -1,0 +1,95 @@
+.{
+	margin:0;
+	padding:0;
+	}
+#menu1 {
+	margin-top:2px;
+	margin-bottom:-11px;
+	}
+.wrapper{
+		width:1300px;
+		margin:0 auto;
+	}
+.xoa{
+	clear:both;
+	}
+div#main{
+		margin-top:-15px;
+	
+	}
+.panel-info{
+	margin-left:-11px;
+	margin-right:-11px;
+	
+	}
+div#chinh{
+	margin-top:15px;
+	
+	}
+.panel-heading h5{
+		text-align:center;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:16px;
+		color:#06F;
+	}
+div.boxhienthi{
+	width:150px;
+	height:auto;
+	border-radius:10px;
+	margin-top:10px;
+	margin-left:5px;
+	margin-bottom:5px;
+	border:1px solid #999;
+	padding:10px;
+	float:left;
+	margin-right:10px;
+	}
+div.datmua{
+	width:70px;
+	height:20px;
+	margin-top:20px;
+	margin-bottom:10px;
+	}
+div.datmua:hover{background-color:#FA0000;}
+div.footer{
+		width:100%;
+		height:100px;
+		background-color:#009;
+		margin-top:5px;
+	}
+.panel-info	.panel-body a{
+	
+	text-decoration:none;
+	}
+.row .col-md-4 {
+	
+	text-align:justify;
+	}
+.row .col-md-8 {
+	
+	text-align:justify;
+	}
+#border{
+	margin-top:10px;
+	border:1px solid #CCC; 
+	border-radius:5px;
+	height:auto;
+	}
+.tab-content .tab-pane {
+	padding:10px;}
+#chitiet tr{
+		height:42px;	
+	 }
+#chitiet{
+	margin-top:20px;
+	margin-left:20px;
+	}
+#thongso tr td{
+	
+	padding:10px;}
+label{
+		color:#F00;
+		margin-left:10px;
+		font-size:10px;
+		
+	}
