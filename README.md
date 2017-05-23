@@ -1,27 +1,4 @@
 # WEB-BAN-DIEN-THOAI
-MỤC LỤC
-MỞ ĐẦU	
-PHẦN 1	
-CƠ SỞ THỰC TẾ BÀI TOÁN	
-1.1 Lý do chọn đề tài	
-1.2 Mô tả bài toán	
-1.2.1 Chức năng, ứng dụng	
-1.2.2 Công cụ phát triển	
-1.3 Mô tả nghiệp vụ bài toán	
-1.3.1 Biểu đồ phân rã chức năng	
-1.3.2 Biểu đồ ngữ cảnh	
-1.3.3 Biểu đồ luồng dữ liệu mức đỉnh	
-1.3.4 Biểu đồ luồng dữ liệu mức 
-1.4 Thiết kế cơ sở dữ liệu	
-PHẦN 2	18
-THIẾT KẾ GIAO DIỆN TIỆN ÍCH	
-2.1 Giao diện người dùng của website	
-2.2 Giao diện quản trị website	
-KẾT LUẬN	
-TÀI LIỆU THAM KHẢO	
-BẢNG PHÂN CÔNG VIỆC	
-
-
 
 
 
