@@ -1,0 +1,85 @@
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $("#nut").click(function(){
+        var dataString = jQuery("form").serialize();
+        $.ajax({
+            type: "POST",
+            url: "modules/sanpham/timkiemsanpham.php",
+            data: dataString,
+            success: function(html){
+                $("#load").html(html);
+            }
+        });
+        return false;
+    });
+});
+</script>
+<?php 
+	error_reporting(0);
+	$num=10;
+	if(isset($_GET["trang"]))
+		{
+			$trang=$_GET["trang"];
+		}
+		else{
+				$trang=1;
+			}
+		$batdau=($trang-1)*$num;
+	$sql="select * from chitietsanpham where Madong='$_GET[id]' limit $batdau,$num   ";
+	$sql2="select * from tbldongsanpham where Madong='$_GET[id]'";
+	$loaisp=mysql_query($sql2);
+	$dong1=mysql_fetch_array($loaisp);
+	$sp=mysql_query($sql);	
+?>
+<div class="panel panel-info" >
+  <div class="panel-heading"> 
+  	<table>
+    	<tr>
+        	<td style="color:#00F;"><img src="image/muiten3.png"> <?php echo $dong1["Tendong"]?> </td>
+            <td style="font-size:12px;font-style:italic;"><?php echo "(Có tất cả ".mysql_num_rows($sp)." sản phẩm)"?></td>
+             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;</td>
+            <td align="right">
+            	<form class="navbar-form navbar-right" role="search"  id="timkiem" method="post">
+                <div class="form-group">
+                  <input type="text" name="key" class="form-control" placeholder="Nhập sản phẩm muốn tìm kiếm vào đây">
+                </div>
+                <button type="submit" id="nut" class="btn btn-default">Tìm kiếm</button>
+              </form>
+            </td>
+  		</tr>
+  	</table> 
+    </div>
+    <div class="panel-body" id="load">
+    	<?php 
+		while($dong=mysql_fetch_array($sp)){
+		?>
+        <div class="boxhienthi">
+      <a href="index.php?xem=chitietsanpham&id=<?php echo $dong["Masanpham"]?>"><div style="width:130px;height:80px;"><center><img src="uploads/<?php echo $dong["Hinhanh"]?>" width="100px" height="100px"></center><br></div>
+      <div style="width:130px;height:40px;margin-top:30px;"><h6 style="font-size:14px;text-align:center;"><?php  echo $dong["Tensp"]?></h6><br></div></a>
+       <div style="width:130px;height:10px;margin-top:10px; color:#F00;"><p align="center"><?php  echo number_format($dong["Gia"])?>VNĐ</p><br></div>
+       <a href="modules/giohang/giohang.php?item=<?php echo $dong["Masanpham"]?>" ><div class="datmua"><img src="image/dathang.png" width="70px" height="20px"></div></a>         		
+    </div>
+    <?php 
+		
+		}
+	 ?>
+    </div>	
+</div>
+<?php 
+	$sql="select * from chitietsanpham where Madong='$_GET[id]' ";
+	$dong=mysql_query($sql);
+	$dem=mysql_num_rows($dong);
+	$sotrang=ceil($dem/$num);
+		?>
+	<?php 
+		$i=1;
+	    while ($i<=$sotrang){
+		?>
+     <ul class="pagination" style="margin-top:2px;margin-left:5px; ;">
+ 		 <li><a href="index.php?xem=sanpham&id=<?php echo $_GET["id"]?>&trang=<?php echo $i;?>"><?php echo $i; ?></a></li>
+	</ul>    
+    <?php 
+		$i++;
+	     } 
+	?>
