@@ -1,0 +1,23 @@
+/* CSS Document */
+#bang {
+		border-collapse:collapse;
+	}
+#bang tr{
+	border:1px solod #00F;	
+	}
+#bang tr:hover{
+	background-color:#CCC;
+	
+}
+#bang td {
+		padding-left:5px;
+		padding-right:5px;
+	}
+#bang tr.doimaunen{
+	background-color:#FF0;
+	}
+tr.tieude{
+		background-color:#03F;
+		height:30px;
+	}
+
