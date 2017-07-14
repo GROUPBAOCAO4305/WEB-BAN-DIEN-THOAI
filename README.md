@@ -13,8 +13,7 @@ Nhóm chúng em lựa chọn “Thiết kế website bán thiết bị di
 Đề tài “Thiết kế website bán thiết bị di động BlackBerry” gồm hai phần nội dung chính đó là:
 Phần 1: Cơ sở thực tế bài toán
 Phần 2: Thiết kế giao diện tiện ích
-
-	</p>
+      </p>
   </body>
 </html>
 
