@@ -1,3 +1,17 @@
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+	<p><center><img src="http://i.imgur.com/zseb0Zz.png"></center></p>
+	<!--  -->
+	<h1>Mở đầu</h1>
+	<p>
+		Với số lượng đoàn viên và thanh niên mỗi năm ngày càng tăng lên, trong khi đó số lượng cán bộ Đoàn của các Đoàn cơ sở có hạn và phần lớn phải tham gia các công tác chuyên môn. Do đó việc quản lý Đoàn viên đặt ra nhiều vấn đề cần phải giải quyết. <br>
+		Trong thời đại công nghệ ngày càng mở rộng và phát triển, để tránh lãng phí thời gian và để gia tăng hiệu quả việc tin học hoá công tác quản đoàn viên là một vấn đề cần thiết. Do đó phải xây dựng một hệ thống để quản lý đoàn viên, dùng máy tính và internet để trợ giúp tiết kiệm công sức, thời gian.
+	</p>
+  </body>
+</html>
 # WEB-BAN-DIEN-THOAI
 
 
