@@ -3,6 +3,9 @@
 	<meta charset="utf-8">
 </head>
 <body>
+        <h2>
+	ĐẠI HỌC THÔNG TIN LIÊN LẠC
+	</h2>
 	<p><center><img src="http://i.imgur.com/zseb0Zz.png"></center></p>
 	<!--  -->
 	<h1>Mở đầu</h1>
@@ -14,6 +17,11 @@ Nhóm chúng em lựa chọn “Thiết kế website bán thiết bị di
 Phần 1: Cơ sở thực tế bài toán
 Phần 2: Thiết kế giao diện tiện ích
       </p>
+      <!--  -->
+	<h1>Giấy phép</h1>
+	<p>
+		<a href="https://https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/LICENSE">Apache License 2.0</a> Apache License Version 2.0, January 2004
+	</p>
   </body>
 </html>
 
