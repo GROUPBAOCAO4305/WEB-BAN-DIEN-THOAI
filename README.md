@@ -49,6 +49,10 @@ SQL Server Nền tảng cơ sở dữ liệu là một hệ quản trị cơ s�
 
 SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….<br />
 </p>
+<h1>Tài liệu cho người sử dụng</h1>
+<p>
+Mời các bạn [Click đây để xem tài liệu cho người sử dụng](https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng.md)
+</p>
   </body>
 </html>
 
