@@ -12,7 +12,7 @@
 	<h1>
 	WEBSITE BÁN ĐIỆN THOẠI
 	</h1>
-	<p><center><img src="http://i.imgur.com/zseb0Zz.png"></center></p>
+	<p><center><img src="https://uphinhnhanh.com/images/2017/07/15/111.png"></center></p>
 	<!--  -->
 	<h1>Mở đầu</h1>
 	<p>
@@ -40,6 +40,15 @@ Phần 2: Thiết kế giao diện tiện ích<br />
 	+ Cơ sở dữ liệu: My SQL.<br />
 	+ Ngôn ngữ lập trình: HTML, CSS, PHP, Javascript, Jquery,…<br />
 	</p>
+	<h1>Nền tảng xây dựng WEBSITE</h1>
+	<p>
+	PHP (viết tắt hồi quy "PHP: Hypertext Preprocessor") Nền tảng hệ thống phần mềm là một ngôn ngữ lập trình kịch bản hay một loại mã lệnh chủ yếu được dùng để phát triển các ứng dụng viết cho máy chủ, mã nguồn mở, dùng cho mục đích tổng quát. Nó rất thích hợp với web và có thể dễ dàng nhúng vào trang HTML. Do được tối ưu hóa cho các ứng dụng web, tốc độ nhanh, nhỏ gọn, cú pháp giống C và Java, dễ học và thời gian xây dựng sản phẩm tương đối ngắn hơn so với các ngôn ngữ khác nên PHP đã nhanh chóng trở thành một ngôn ngữ lập trình web phổ biến nhất thế giới.<br />
+	<br />
+	
+SQL Server Nền tảng cơ sở dữ liệu là một hệ quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng câu lệnh SQL (Transact-SQL) để trao đổi dữ liệu giữa máy Client và máy cài SQL Server. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.<br />
+
+SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….<br />
+</p>
   </body>
 </html>
 
