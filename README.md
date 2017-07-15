@@ -31,7 +31,7 @@ Phần 2: Thiết kế giao diện tiện ích<br />
 </p>
 	<h1>Giấy phép</h1>
 	<p>
-		<a href="https://https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/LICENSE">Apache License 2.0</a> Apache License Version 2.0, January 2004
+		<a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/LICENSE">Apache License 2.0</a> Apache License Version 2.0, January 2004
 	</p>
 	<h1>Công cụ phát triển</h1>
 	<p>
