@@ -63,8 +63,8 @@ Tài liệu thiết kế <a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIE
 </p>
 <h1>Lời cảm ơn</h1>
 <p>
-Trong thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng không ngừng, chúng em đã hoàn thành “Website bán thiết bị di động BlackBerry”. Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện website, mang lại sự tiện lợi nhất cho người dùng.
-	Chúng em xin chân thành cảm ơn Thầy Mai Cường Thọ đã giúp đỡ tận tình để chúng em có thể hoàn thiện được website này. Chúng em sẽ tiếp thu kiến thức và cố gắng nhiều hơn nữa trong học tập và nghiên cứu!
+Trong thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng không ngừng, chúng em đã hoàn thành “Website bán thiết bị di động BlackBerry”. Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện website, mang lại sự tiện lợi nhất cho người dùng.<br />
+	Chúng em xin chân thành cảm ơn Thầy Mai Cường Thọ đã giúp đỡ tận tình để chúng em có thể hoàn thiện được website này. Chúng em sẽ tiếp thu kiến thức và cố gắng nhiều hơn nữa trong học tập và nghiên cứu!<br />
 
 </p>
   </body>
