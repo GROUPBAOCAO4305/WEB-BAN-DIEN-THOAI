@@ -53,6 +53,11 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 <p>
 Tài liệu cho người sử dụng <a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng.md" target="_blank">Xem tại đây</a>. 
 </p>
+<h1>Tài liệu cho nhà phát triển</h1>
+<h1>Tài liệu thiết kế</h1>
+<p>
+Tài liệu thiết kế <a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/T%C3%A0i%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF.md" target="_blank">Xem tại đây</a>.
+</p>
   </body>
 </html>
 
