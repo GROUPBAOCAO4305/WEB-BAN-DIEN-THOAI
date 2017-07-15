@@ -6,3 +6,50 @@ Hiện tại website của chúng tôi được thiết kế như sau :
 ## Các chức năng cơ bản mà chúng tôi đã thực hiện được
 ### Quản lý thành viên
 <p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/1c9a53.png"></p> 
+
+### Quản lý quyền quản trị website
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/244336.png"></p> 
+
+### Quản lý đơn hàng
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/3212ce.png"></p>
+
+### Quản lý chi tiết đơn hàng 
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/49c214.png"></p>
+
+### Quản lý dòng sản phẩm BlackBerry
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/5a613f.png"></p>
+
+### Quản lý chi tiết sản phẩm
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/6a5ce1.png"></p>
+
+### Quản lý loại phụ kiện
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/743ac2.png"></p>
+
+### Quản lý chi tiết phụ kiện
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/829ee0.png"></p>
+
+### Quản lý tin tức
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/912707.png"></p>
+
+### Quản lý bình luận
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/10f1ca7.png"></p>
+
+### Quản lý thông tin liên hệ
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/11.png"></p>
+
+### Quản lý nhận xét
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/12.png"></p>
+
+### Quản lý Banner quảng cáo
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/13.png"></p>
+
+### Quản lý danh sách sản phẩm bán chạy
+<p align="center"><img  src="https://uphinhnhanh.com/images/2017/07/15/14.png"></p>
+
+
+
+
+
+
+
+
