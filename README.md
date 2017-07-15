@@ -49,6 +49,14 @@ SQL Server Nền tảng cơ sở dữ liệu là một hệ quản trị cơ s�
 
 SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….<br />
 </p>
+<h1>Chuẩn lập trình</h1>
+<p>
+Mục đích:<br />
+Đưa ra các quy ước khi coding với ngôn ngữ lập trình PHP, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm. Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình PHP, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Adobe Dreamweaver<br />
+Phạm vi áp dụng:<br />
+Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ PHP và công cụ Adobe Dreamweaver<br />
+</p>
+
 <h1>Tài liệu cho người sử dụng</h1>
 <p>
 Tài liệu cho người sử dụng <a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng.md" target="_blank">Xem tại đây</a>. 
