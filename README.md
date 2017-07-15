@@ -3,9 +3,11 @@
 	<meta charset="utf-8">
 </head>
 <body>
-        <h2>
+        <h1>
 	ĐẠI HỌC THÔNG TIN LIÊN LẠC
-	</h2>
+	ĐỀ TÀI MÔN HỌC PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ
+	WEBSITE BÁN ĐIỆN THOẠI
+	</h1>
 	<p><center><img src="http://i.imgur.com/zseb0Zz.png"></center></p>
 	<!--  -->
 	<h1>Mở đầu</h1>
@@ -18,10 +20,20 @@ Phần 1: Cơ sở thực tế bài toán
 Phần 2: Thiết kế giao diện tiện ích
       </p>
       <!--  -->
+      ## Thành viên
+
+* **Phan Xuân Tuấn** -  | 01663072100 | prophan1171996@gmail.com
+* **Đặng Thị Thanh Nhàn** -  | 0976321840 | dangthithanhnhan1996@gmail.com
 	<h1>Giấy phép</h1>
 	<p>
 		<a href="https://https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/blob/master/LICENSE">Apache License 2.0</a> Apache License Version 2.0, January 2004
 	</p>
+	## Công cụ phát triển
+	+ Website có thể sử dụng được trên mọi trình duyệt internet.
+	+ Công cụ lập trình: Notepat++, Adobe Dreamweaver, phpDesigner 8.
+	+ Cơ sở dữ liệu: My SQL.
+	+ Ngôn ngữ lập trình: HTML, CSS, PHP, Javascript, Jquery,…
+
   </body>
 </html>
 
