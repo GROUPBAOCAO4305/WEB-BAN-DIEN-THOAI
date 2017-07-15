@@ -4,13 +4,13 @@
 </head>
 <body>
         <h1>
-	ĐẠI HỌC THÔNG TIN LIÊN LẠC
+	<center>ĐẠI HỌC THÔNG TIN LIÊN LẠC</center>
 	</h1>
 	<h1>
-	ĐỀ TÀI MÔN HỌC PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ
+	<center>ĐỀ TÀI MÔN HỌC PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ</center>
 	</h1>
 	<h1>
-	WEBSITE BÁN ĐIỆN THOẠI
+	<center>WEBSITE BÁN ĐIỆN THOẠI</center>
 	</h1>
 	<p><center><img src="https://uphinhnhanh.com/images/2017/07/15/111.png"></center></p>
 	<!--  -->
