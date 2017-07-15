@@ -26,7 +26,7 @@ Phần 2: Thiết kế giao diện tiện ích
       <!--  -->
       <h1>Thành viên</h1>
 <p>
-**Phan Xuân Tuấn** -  | 01663072100 | prophan1171996@gmail.com
+**Phan Xuân Tuấn** -  | 01663072100 | prophan1171996@gmail.com<br />
 **Đặng Thị Thanh Nhàn** -  | 0976321840 | dangthithanhnhan1996@gmail.com
 </p>
 	<h1>Giấy phép</h1>
@@ -35,10 +35,10 @@ Phần 2: Thiết kế giao diện tiện ích
 	</p>
 	<h1>Công cụ phát triển</h1>
 	<p>
-	+ Website có thể sử dụng được trên mọi trình duyệt internet.
-	+ Công cụ lập trình: Notepat++, Adobe Dreamweaver, phpDesigner 8.
-	+ Cơ sở dữ liệu: My SQL.
-	+ Ngôn ngữ lập trình: HTML, CSS, PHP, Javascript, Jquery,…
+	+ Website có thể sử dụng được trên mọi trình duyệt internet.<br />
+	+ Công cụ lập trình: Notepat++, Adobe Dreamweaver, phpDesigner 8.<br />
+	+ Cơ sở dữ liệu: My SQL.<br />
+	+ Ngôn ngữ lập trình: HTML, CSS, PHP, Javascript, Jquery,…<br />
 	</p>
   </body>
 </html>
