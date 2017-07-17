@@ -72,6 +72,14 @@ Tài liệu thiết kế <a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIE
 <h1>Kênh truyền thông</h1>
 Nhấp để xem các tin tức mới nhất. <a href="https://www.facebook.com/%C4%90I%E1%BB%86N-THO%E1%BA%A0I-Blackberry-216992638825141/" target="_blank">Fanpage Điện Thoại BlackBerry</a>.
 <p><center><img src="https://uphinhnhanh.com/images/2017/07/16/1.png"></center></p>
+<h1>Báo lỗi</h1>
+<p>
+Danh sách lỗi. <a href="https://github.com/GROUPBAOCAO4305/WEB-BAN-DIEN-THOAI/issues" target="_blank">Tại đây</a>.
+</p>
+<h1>Cách lấy và đóng góp mã nguồn</h1>
+<p>
+Mời các bạn truy cập để biết thêm chi tiết. <a href="https://github.com/GROUPBAOCAO4305" target="_blank">Tại đây</a>.
+</p>
 <h1>Lời cảm ơn</h1>
 <p>
 Trong thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng không ngừng, chúng em đã hoàn thành “Website bán thiết bị di động BlackBerry”. Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện website, mang lại sự tiện lợi nhất cho người dùng.<br />
